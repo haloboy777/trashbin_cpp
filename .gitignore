@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# temps
+*.ii
+*.bc
+
 # Compiled Object files
 *.slo
 *.lo
