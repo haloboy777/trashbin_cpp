@@ -4,6 +4,7 @@
 # temps
 *.ii
 *.bc
+*.s
 
 # Compiled Object files
 *.slo
